@@ -4,7 +4,7 @@
     "name": "Exercise Routine suggestion",
     "icons": [
       {
-        "src":"./images/icon/logo.png",
+        "src":"./images/icon/gym.png",
         "sizes":"512x512",
         "type":"image/png"
       }
