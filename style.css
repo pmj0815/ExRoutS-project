@@ -1,0 +1,27 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 75px;
+    padding: 1rem;
+    color: white;
+    background: teal;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  main {
+    height: 100%;  
+  }
+  
+  body {
+    margin-top: 75px;
+    background: #EEE;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }

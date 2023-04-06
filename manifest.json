@@ -1,0 +1,16 @@
+
+{
+    "short_name": "ExRoutS",
+    "name": "Exercise Routine suggestion",
+    "icons": [
+      {
+        "src":"./images/icon/logo.png",
+        "sizes":"512x512",
+        "type":"image/png"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#fff"
+  }
